@@ -1,0 +1,30 @@
+body {
+    background-color: green;
+}
+table.main {
+    border: 0px solid black;
+    width: 70%;
+    margin: auto;
+    border-collapse: collapse;
+}
+table.left{
+    width: 80%;
+    margin: auto;
+}
+td {
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+}
+h3 {
+    color: rgb(52, 133, 209);
+    font-weight: lighter;
+    text-decoration:;
+}
+p {
+    text-align: left;
+}
+p.grey{
+    text-align: left;
+    color:grey
+}

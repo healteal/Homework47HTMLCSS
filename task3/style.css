@@ -1,0 +1,32 @@
+body {
+    height: 900px;
+    width: 900px;
+}
+h1 {
+    text-align: center;
+    position: relative;
+}
+div {
+    position: relative;
+}
+.image1 {
+    top: 70px; left: 70px;
+}
+.image2 {
+    top: 10px; left: 150px;
+}
+.image3 {
+    top: -25px; left: 350px;
+}
+.image4 {
+    top: -100px; left:500px;
+}
+.image5 {
+    top: -450px; left:650px;
+}
+.image6 {
+    top: -800px; left: 800px;
+}
+.image7 {
+    top: -1100px; left: 1000px;
+}
